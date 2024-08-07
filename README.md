@@ -5,10 +5,10 @@ Der Code dieses Notebooks basiert auf https://github.com/F-Quaasdorf/VD17sru und
 ### SRU-Schnittstelle des VD17
 Die Schnittstelle ist hierunter erreichbar: http://sru.k10plus.de/vd17
 Gesucht wird über die PICA-Abfrage:
-- `pica.tit` für den Titel
-- `pica.jah` für Jahresangaben
-- `pica.per` für Personen
-- `pica.vlo` für Ortsangaben
+- `pica.tit` Titel
+- `pica.jah` Jahresangabe
+- `pica.per` Person
+- `pica.vlo` Erscheinungsort
 
 Die Treffer werden als MARC21-XML abgefragt und ausgewertet.
 
